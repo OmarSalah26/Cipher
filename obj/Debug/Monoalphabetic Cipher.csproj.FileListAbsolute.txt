@@ -1,0 +1,7 @@
+D:\Study\Faculty\3.2\Operating System\section\Monoalphabetic Cipher\bin\Debug\Monoalphabetic Cipher.exe.config
+D:\Study\Faculty\3.2\Operating System\section\Monoalphabetic Cipher\bin\Debug\Monoalphabetic Cipher.exe
+D:\Study\Faculty\3.2\Operating System\section\Monoalphabetic Cipher\bin\Debug\Monoalphabetic Cipher.pdb
+D:\Study\Faculty\3.2\Operating System\section\Monoalphabetic Cipher\obj\Debug\Monoalphabetic Cipher.csprojAssemblyReference.cache
+D:\Study\Faculty\3.2\Operating System\section\Monoalphabetic Cipher\obj\Debug\Monoalphabetic Cipher.csproj.CoreCompileInputs.cache
+D:\Study\Faculty\3.2\Operating System\section\Monoalphabetic Cipher\obj\Debug\Monoalphabetic Cipher.exe
+D:\Study\Faculty\3.2\Operating System\section\Monoalphabetic Cipher\obj\Debug\Monoalphabetic Cipher.pdb
